@@ -1,0 +1,13 @@
+C:\Users\kl_66\source\repos\Lab3\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\kl_66\source\repos\Lab3\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\kl_66\source\repos\Lab3\UnitTestProject1\bin\Debug\Lab3.exe
+C:\Users\kl_66\source\repos\Lab3\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\kl_66\source\repos\Lab3\UnitTestProject1\bin\Debug\Lab3.pdb
+C:\Users\kl_66\source\repos\Lab3\UnitTestProject1\bin\Debug\Lab3.exe.config
+C:\Users\kl_66\source\repos\Lab3\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\kl_66\source\repos\Lab3\UnitTestProject1\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\kl_66\source\repos\Lab3\UnitTestProject1\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\kl_66\source\repos\Lab3\UnitTestProject1\obj\Debug\Test.csproj.CopyComplete
+C:\Users\kl_66\source\repos\Lab3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\kl_66\source\repos\Lab3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\kl_66\source\repos\Lab3\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
